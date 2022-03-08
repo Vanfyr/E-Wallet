@@ -1,0 +1,12 @@
+* {
+  list-style: none;
+}
+
+.active {
+  background-color: rgb(0, 171, 238);
+}
+
+.inactive:hover {
+  background-color: rgb(0, 171, 238);
+  border: none;
+}

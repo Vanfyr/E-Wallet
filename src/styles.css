@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Home {
+  background-color: #0a0a23;
+  color: #fff;
+  border: none;
+}
+
+.AddCard {
+  margin-left: 25px;
+  background-color: #0a0a23;
+  color: #fff;
+  border: none;
+}
+
+.Home:hover {
+  background-color: #4caf50;
+  color: white;
+}
+
+.AddCard:hover {
+  background-color: #4caf50;
+  color: white;
+}
